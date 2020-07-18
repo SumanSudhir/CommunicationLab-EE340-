@@ -105,7 +105,7 @@
     </param>
     <param>
       <key>value</key>
-      <value>300000</value>
+      <value>400e3</value>
     </param>
   </block>
   <block>
